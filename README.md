@@ -40,7 +40,6 @@ For weather forecasts, I utilized OpenWeather's API, specifically their 5-day fo
 Flight data was sourced through AeroDataBox via Rapid API, a marketplace simplifying API usage. Functions were developed to fetch and structure this data into dataframes, focusing on acquiring next-day flight arrival times to aid operational planning.
 
 
-
 ### Project Phases
 
 **Phase 1: Local Pipeline**
@@ -50,6 +49,12 @@ My first task will be to create a data pipeline locally, which involves collecti
 **Phase 2: Cloud Pipeline**
 
 Once the local pipeline is up and running, I migrate it to the cloud using Google Cloud Platform (GCP). GCP offers numerous advantages for data pipelines, including scalability, flexibility, automation, and maintenance.
+
+
+![image](https://github.com/NuriaAmezaga/Data-Engineering/assets/168557674/0673f1a2-7c0f-4e83-8c5c-50d29f1a3b66)
+
+
+
 
 ## Data Storage
 
