@@ -62,6 +62,9 @@ Once the local pipeline is up and running, I migrate it to the cloud using Googl
 
 Following data collection, the resultant city, weather, and flight data were organized into dataframes and stored in a MySQL database for analysis.
 
+![image](https://github.com/NuriaAmezaga/Data-Engineering/assets/168557674/d35f333b-9153-4e95-b549-d8066604cc54)
+
+
 ## Google Cloud Platform Integration
 
 Transitioning the local data pipeline to the cloud was a crucial step for enhancing Gans' operational efficiency by providing real-time insights into e-scooter demand influenced by weather changes and flight arrivals. The migration to Google Cloud Platform (GCP) entailed setting up a scalable, cloud-based infrastructure for data storage and processing.
