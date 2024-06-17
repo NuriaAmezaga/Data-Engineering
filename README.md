@@ -85,12 +85,6 @@ A pivotal component of our cloud-based solution was a set of Google Cloud Functi
 
 To automate the execution of our data collection and processing tasks, I utilized GCP's Cloud Scheduler. This fully managed cron job service allowed us to schedule our Cloud Functions to run at predetermined intervals, guaranteeing that Gans always has access to the most recent data without manual intervention.
 
-## Conclusion
-
-The focus of most e-scooter companies is sustainable mobility: they are on the good side of the dichotomy between Battery Electric Vehicles (BEV) versus Internal Combustion Engine Vehicles (ICEV). Most of their marketing efforts push the eco-friendly narrative: this is how they acquire new users and gain good press from citizens encountering scooters around the city.
-
-However, Gans has seen that its operational success depends on something more mundane: having its scooters parked where users need them.
-
 
 ### Key Learnings and Deliverables
 
@@ -98,7 +92,11 @@ However, Gans has seen that its operational success depends on something more mu
 - **Data Storage: SQL Database**
 - **Cloud Integration: GCP MySQL, Cloud Functions, and Cloud Scheduler**
 
-Note: I Share my insights, challenges, and solutions encountered throughout the process. Highlight my accomplishments, such as automating data collection, transforming raw data into a usable format, and securely storing the processed data in the cloud. https://medium.com/@namez07/my-first-project-as-a-data-engineer-8b6cec29ab6d
+## Conclusion
+
+Working on this engineering project taught me several key skills. I learned how to gather information from the internet, including HTML pages like Wikipedia, and how to use APIs for dynamic data retrieval. I also developed the ability to store this data in the cloud, ensuring that the database remains operational and updated in real-time through automation. This project allowed me to apply my Python and MySQL skills in conjunction with cloud functions. Although I encountered numerous coding errors, I realized that errors are valuable learning opportunities rather than obstacles. Overall, this experience demonstrated the importance of resilience and continuous learning in engineering. 
+
+Additionally, I wrote my first article explaining my journey in this new field of Data Engineering. You can read it here: https://medium.com/@namez07/my-first-project-as-a-data-engineer-8b6cec29ab6d
 
 
 
