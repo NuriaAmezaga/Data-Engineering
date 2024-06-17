@@ -95,7 +95,7 @@ However, Gans has seen that its operational success depends on something more mu
 - **Data Storage: SQL Database**
 - **Cloud Integration: GCP MySQL, Cloud Functions, and Cloud Scheduler**
 
-Note: I Share my insights, challenges, and solutions encountered throughout the process. Highlight my accomplishments, such as automating data collection, transforming raw data into a usable format, and securely storing the processed data in the cloud. 
+Note: I Share my insights, challenges, and solutions encountered throughout the process. Highlight my accomplishments, such as automating data collection, transforming raw data into a usable format, and securely storing the processed data in the cloud. https://medium.com/@namez07/my-first-project-as-a-data-engineer-8b6cec29ab6d
 
 
 
